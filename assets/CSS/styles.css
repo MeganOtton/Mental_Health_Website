@@ -3,9 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
  
 /* main colors */
-:root {
-
-}
 
 /* Background color for the whole webpage */
 body {
@@ -98,3 +95,34 @@ div.hero-text{
     font-weight: 350;
 }
 
+#mainContent {
+    padding-bottom: 10px; /* Adjusted for  */
+}
+
+#imageGrid {
+    padding-top: 5px;
+}
+
+header {
+    background-color: #74CFED;
+    color: white;
+    border-radius: 10px;
+    margin-top: 0px;
+}
+
+.card-body {
+    font-family: 'Zain', sans-serif;
+    font-weight: 400;
+    font-size: 110%;
+}
+
+.card-title {
+    font-family: 'Zain', sans-serif;
+    font-weight: 700;
+    font-size: 150%;
+}
+
+.col-md-3 /*Cards*/ {
+    margin-bottom: 10px;
+    margin-top: 10px !important;
+}
