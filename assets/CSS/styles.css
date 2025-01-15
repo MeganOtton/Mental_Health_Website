@@ -4,6 +4,7 @@
  
 /* main colors */
 
+/* General Code */
 /* Background color for the whole webpage */
 body {
     background: linear-gradient(to bottom, #efd5ff 0%, #8189fd 100%);
@@ -51,7 +52,8 @@ body {
     text-decoration: underline;
 }
 
-/*Hero Section*/
+/* Index Page */
+/* Hero Section */
 img.hero-image {
     width: 100%;
     margin-top: 15%;
@@ -66,7 +68,7 @@ div.hero-text{
     font-weight: 350;
 }
 
-/*About Section*/
+/* About Section */
 .about {
     background-color: #ffffffc4;
     border-radius: 10px;
@@ -82,8 +84,7 @@ div.hero-text{
     font-family: 'Zain', sans-serif;
 }
 
-/*Card Section*/
-
+/* Card Section */
 .mental_health_info_title {
     background-color: #707CCE;
     font-family: 'Zain', sans-serif;
@@ -98,7 +99,7 @@ div.hero-text{
 }
 
 #mainContent {
-    padding-bottom: 10px; /* Adjusted for  */
+    padding-bottom: 10px;
 }
 
 #imageGrid {
@@ -130,7 +131,6 @@ header {
 }
 
 /* Uplifting Messages */
-
 .uplifting_messages {
     background-color: #707CCE;
     font-family: 'Zain', sans-serif;
@@ -173,4 +173,16 @@ header {
 
 /* Footer Styles are all inline */
 
+/* Contact Us Page */
 
+/* Form */
+#form-text {
+    color: #434db0;
+    font-family: 'Zain', sans-serif;
+    font-size: 100%;
+}
+
+#contact-form {
+    margin-top: 30px !important;
+    margin-bottom: 28px !important;
+}
