@@ -1,0 +1,62 @@
+/* Zain Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap');
+
+/* Background color for the whole webpage */
+body {
+    background: linear-gradient(to bottom, #7fd9f7, #fde9eb);
+    background-attachment: fixed; /* Prevents the background from scrolling */
+}
+
+/*Navbar*/
+.navbar {
+    background-color: #8EC6DA;
+    position: sticky;
+    top: 0;
+    z-index: 1030;
+    transition: background-color 0.5s ease;
+    box-shadow: 0 4px 6px #2f3d4265;
+}
+
+.navbar-nav {
+    --bs-nav-link-color: white !important;
+}
+
+.navbar-collapse {
+    border-radius: 10px;
+    padding: 3px; /* Spacing inside of drop down menu */
+}
+
+.navbar-brand {
+    font-size: 155% !important;
+    font-weight: 700;
+    font-family: 'Zain', sans-serif;
+    color: white !important;
+}
+
+.navbar-toggler-icon {
+    filter: invert(1);
+}
+
+.navbar-toggler {
+    border: none !important;
+}
+
+.nav-link.active {
+    color: white !important;
+    text-decoration: underline;
+}
+
+/*Hero Section*/
+img.hero-image {
+    width: 100%;
+    margin-top: 80px;
+}
+
+div.hero-text{
+    background-color: #707CCE;
+    font-family: 'Zain', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #ffffff;
+    font-weight: 350;
+}
