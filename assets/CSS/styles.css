@@ -201,13 +201,3 @@ header {
     margin-top: 10px;
     width: 100%;
 }
-
-.thankyou_message {
-    margin-top: 10px;
-    background-color: #707CCE;
-    font-family: 'Zain', sans-serif;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    color: #ffffff;
-    font-weight: 350;
-}
