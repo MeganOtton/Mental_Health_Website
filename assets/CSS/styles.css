@@ -98,9 +98,14 @@ div.hero-text{
     padding-top: 10px;
     padding-bottom: 10px;
     font-family: 'Zain', sans-serif;
-    font-weight: 800 !important;
+    font-weight: 200;
     padding-left: 10px;
     padding-right: 10px;
+}
+
+#about-text {
+    font-size: 25px ;
+    font-weight: 300;
 }
 
 /* Card Section */
@@ -130,8 +135,8 @@ header {
 
 .card-body {
     font-family: 'Zain', sans-serif;
-    font-weight: 600;
-    font-size: 110%;
+    font-weight: 350;
+    font-size: 25px;
     color: #434db0 !important;
     background-color: #F5F1FF !important;
     box-shadow: 0 4px 6px #2f3d4265;
@@ -243,35 +248,43 @@ header {
 }
 
 /* Media Query for Small Mobile */
-@media (max-width: 320px) {
+@media screen and (min-width: 230px) and (max-width: 320px) {
     /* INDEX */
     /* Navbar */
     .navbar-brand {
         font-size: 110% !important;
     }
 
-    /* Cards */
-    .card-body {
-        font-size: 130%;
-    }
+    /* About Section */
+    /* .about-text{
+       font-size: 800px;
+    } */
 
     /*Carousel*/
     #carousel-text h5 {
-        font-size: 140% !important;
+        font-size: 25px!important;
     }
     
     /* RESOURCE */
-    /* No Edits Needed */
+    #resource-text {
+        font-size: 25px;
+    }
 
     /* CONTACT US */
-    /* No Edits Needed */
+    #contact-form {
+        margin-top: 56px !important;
+        margin-bottom: 100px !important;
+    }
 
     /* THANK YOU PAGE*/
-    /* No Edits Needed */
+    #thank_you_message {
+        margin-bottom: 540px;
+        margin-top: 20px;
+    }
 }
 
 /* Media Query for Medium Mobile */
-@media screen and (min-width: 320px) and (max-width: 375px) {
+@media screen and (min-width: 321px) and (max-width: 375px) {
     /* INDEX */
     /* No Edits Needed */
     
@@ -288,7 +301,7 @@ header {
 }
 
 /* Media Query for Large Mobile */
-@media screen and (min-width: 375px) and (max-width: 425px) {
+@media screen and (min-width: 376px) and (max-width: 425px) {
     /* INDEX */
     /* No Edits Needed */
     
@@ -305,7 +318,7 @@ header {
 }
 
 /* Media Query for Tablet */
-@media screen and (min-width: 425px) and (max-width: 768px) {
+@media screen and (min-width: 426px) and (max-width: 768px) {
     /* INDEX */
     /* Hero Section */
     img.hero-image {
