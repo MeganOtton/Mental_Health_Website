@@ -4,7 +4,7 @@
 <p align="center"> | Add Live Link Here | </p>
 
 <h1 align="center"> Introduction: </h1>
-___
+
 
 <p>
 Mental Minds is my first assessed portfolio project developed as part of the Code Institute Full Stack Software Developer Bootcamp, consisting of learning outcomes to utilise HTML5, CSS3 & Bootstrap in order to fulfil the necessary requirements for the brief provided about Mental Health.
@@ -13,10 +13,9 @@ The live project can found here: ADD LINK HERE
 </p>
 
 <h2 align="center"> Table of Contents:</h2>
-___
+
 
 ## Project Outline
-___
 
 Mental Minds is a fictional organisation dedicated to bringing awareness to mental health, with a primary focus of spotting the signs and symptoms of mental health struggles and what can be done to improve mental health.
 The page developed as part of this project documents the organisation's resources and information whilst offering support and contact options for guidance.
@@ -28,7 +27,7 @@ The page developed as part of this project documents the organisation's resource
  - Color and imagery that matches the theme of the website and is calming for the user,
 
 ## UX Design
-___
+
 
 ### User Stories
 
@@ -57,7 +56,7 @@ FONT CHOICE 1 was used for Logos, Headings and other elements that are of signif
 FONT CHOICE 2 was used for Logos, Headings and other elements that are of significance. It is a DESCRIPTIVE WORD (IE PLAYFUL, FUN, CALMING ETC)
 
 ## Wireframes
-___
+
 These wireframes have been created using Balsamiq to define the key feature layout to guide the user experience design as well as blocking out the rough color pallete to identify any key issues. I will be utilising Bootstrap's framework to help blockout the website key elements. 
 #### Index Page
 
@@ -72,7 +71,7 @@ These wireframes have been created using Balsamiq to define the key feature layo
 ![Contact Us Wireframe](https://github.com/user-attachments/assets/c77d6d64-d6c1-4a44-8c37-fa02c278a719)
 
 ## Imagery
-___
+
 
 The imagery is an important way to get infromation across to the users, with that in mind i came up with a specific criteria the images had to fulfill:
 
@@ -86,7 +85,7 @@ Due to the sensitive nature of the project and mental health in itself, i want t
 Image Credit: CREDIT FOR IMAGES
 
 ## Features
-___
+
 #### General Features
 In order to fulfil the criteria set out by the user stories, listed above, the page will consist of various sectioned information each with a variety of links, resources or other elements that contribute to the website fullfilling its goals and aiding the user.
 
@@ -109,10 +108,10 @@ IMAGE
 EXPLANATION BOOTSTRAP
 
 IMAGE
-___
+
 
 ## Responsive Design
-___
+
 
 I will be utilising the Bootstrap Framework allowed for an implementation that is responsive without the need for additional CSS or media queries, in most instances.
 
@@ -123,7 +122,7 @@ Below is an image of my website from different devices.
 INSERT IMAGE FROM RESPONSIVE WEBSITE (CREDIT WEBSITE)
 
 ## AI Implementation
-___
+
 #### Use Cases and Reflections:
 #### - Code Creation
   - I used AI like copilot to help implement and generate elements from bootstrap without having to source it from bootstraps website. This sped up creation time exponentially in a project where time is limited.
