@@ -232,7 +232,7 @@ header {
     margin-right: 10px;
 }
 
-/* Media Query for Mobile Devices */
+/* Media Query for Small Mobile */
 @media (max-width: 320px) {
     /* INDEX */
     /* Navbar */
@@ -251,15 +251,45 @@ header {
     }
     
     /* RESOURCE */
-
     /* No Edits Needed */
 
     /* CONTACT US */
-
     /* No Edits Needed */
 
     /* THANK YOU PAGE*/
-
-    
+    /* No Edits Needed */
 }
 
+/* Media Query for Medium Mobile */
+@media (max-width: 375px) {
+    /* INDEX */
+    /* No Edits Needed */
+    
+    /* RESOURCE */
+    /* No Edits Needed */
+
+    /* CONTACT US */
+    /* No Edits Needed */
+    
+    /* THANK YOU PAGE*/
+    #thank_you_message {
+        margin-bottom: 206px;
+    }
+}
+
+/* Media Query for Large Mobile */
+@media (max-width: 425px) {
+    /* INDEX */
+    /* No Edits Needed */
+    
+    /* RESOURCE */
+    /* No Edits Needed */
+
+    /* CONTACT US */
+    /* No Edits Needed */
+    
+    /* THANK YOU PAGE*/
+    #thank_you_message {
+        margin-bottom: 177px;
+    }
+}
