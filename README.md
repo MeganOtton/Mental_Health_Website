@@ -3,7 +3,7 @@
 
 <div align="center"> 
 <a target="_blank" href="https://meganotton.github.io/Mental_Health_Website/"> | Live Link Here | </a>
-<div align="center"> 
+</div align="center"> 
 
 <h1 align="center"> Introduction: </h1>
 
