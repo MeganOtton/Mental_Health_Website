@@ -1,7 +1,7 @@
 ![Mental Minds Hero JPG](https://github.com/user-attachments/assets/0013aac5-2dee-48a4-88f0-63e0b679424d)
 <h1 align="center">Mental Mind</h1>
 
-<p align="center"> | Add Live Link Here | </p>
+<a align="center" target="_blank" href="https://meganotton.github.io/Mental_Health_Website/" > | Add Live Link Here | </a>
 
 <h1 align="center"> Introduction: </h1>
 
