@@ -289,14 +289,51 @@ header {
     /* No Edits Needed */
     
     /* RESOURCE */
-    /* No Edits Needed */
+    #resource-text {
+        font-size: 25px;
+    }
 
     /* CONTACT US */
-    /* No Edits Needed */
+    #emergency-text{
+        font-size: 25px !important;
+    }
+
+    #form-text {
+        font-size: 160%;
+        margin-bottom: 90px;
+    }
     
+    #contact-form {
+        margin-bottom: 49px !important;
+    }
+
+    #name {
+        font-size: 25px;
+    }
+
+    #email {
+        font-size: 25px;
+    }
+
+    #subject {
+        font-size: 25px;
+    }
+
+    #message {
+        font-size: 25px;
+    }
+
+    #contact_form_button {
+        font-size: 25px !important;
+    }
+
     /* THANK YOU PAGE*/
+    .under_hero_divide {
+        padding-top: 40px;
+    }
+
     #thank_you_message {
-        margin-bottom: 206px;
+        margin-bottom: 418px;
     }
 }
 
