@@ -72,6 +72,16 @@ div.hero-text{
     color: #ffffff;
     font-weight: 350;
 }
+#hero_text_title {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+#hero_text_main {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    font-size: 160%;
+}
 
 /* About Section */
 .about {
@@ -261,7 +271,7 @@ header {
 }
 
 /* Media Query for Medium Mobile */
-@media (max-width: 375px) {
+@media screen and (min-width: 320px) and (max-width: 375px) {
     /* INDEX */
     /* No Edits Needed */
     
@@ -278,7 +288,7 @@ header {
 }
 
 /* Media Query for Large Mobile */
-@media (max-width: 425px) {
+@media screen and (min-width: 375px) and (max-width: 425px) {
     /* INDEX */
     /* No Edits Needed */
     
@@ -292,4 +302,42 @@ header {
     #thank_you_message {
         margin-bottom: 177px;
     }
+}
+
+/* Media Query for Tablet */
+@media screen and (min-width: 425px) and (max-width: 768px) {
+    /* INDEX */
+    /* Hero Section */
+    img.hero-image {
+        margin-top: 0px !important;
+    }
+
+    #hero_text_main {
+        font-size: 200%;
+    }
+
+    .about-text {
+        font-size: 400% !important;
+    }
+
+    /* Card Section */
+    .col-md-3 {
+        width: 100% !important;
+        padding-left: 6px !important;
+        padding-right: 6px !important;
+    }
+
+    .card-body {
+        height: 288px !important;
+        font-size: 170%;
+    }
+
+    .row {
+        justify-content: center;
+    }
+
+    /* RESOURCES */
+    /* Resources  */
+
+
 }
