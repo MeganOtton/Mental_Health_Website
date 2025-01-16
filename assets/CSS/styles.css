@@ -207,18 +207,14 @@ header {
 
 /* Thank You Page */
 
-.thank_you_image {
-    width: 100%;
-}
-
 .under_hero_divide{
     background-color: #707CCE;
     padding-top: 20px;
 }
 
 #thank_you_message {
-    margin-top: 93.5px;
-    margin-bottom: 93.5px;
+    margin-top: 128px;
+    margin-bottom: 200px;
     border-radius: 10px;
     margin-left: 10px;
     margin-right: 10px;
