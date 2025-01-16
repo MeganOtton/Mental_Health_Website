@@ -5,11 +5,17 @@
 /* main colors */
 
 /* General Code */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    body {
+        color: #8189fd;
+    }
+}
 
 main {
     margin-bottom: 60px;
     margin-top: 40px;
 }
+
 /* Background color for the whole webpage */
 body {
     background: linear-gradient(to bottom, #efd5ff 0%, #8189fd 100%);
@@ -120,14 +126,17 @@ header {
 
 .card-body {
     font-family: 'Zain', sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     font-size: 110%;
+    color: #434db0 !important;
+    background-color: #F5F1FF !important;
 }
 
 .card-title {
     font-family: 'Zain', sans-serif;
     font-weight: 700;
     font-size: 150%;
+    color: #434db0 !important;
 }
 
 .col-md-3 /*Cards*/ {
@@ -206,3 +215,18 @@ header {
     margin-top: 10px;
     width: 100%;
 }
+
+/* Resource Page */
+/* Resource Page Intro */
+
+.resource-intro {
+    color: white;
+    font-family: 'Zain', sans-serif;
+    background-color: #707CCE;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
