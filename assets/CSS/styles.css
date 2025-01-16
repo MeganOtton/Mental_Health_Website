@@ -208,10 +208,22 @@ header {
 /* Thank You Page */
 
 .thank_you_image {
-    margin-top: 10px;
     width: 100%;
 }
 
+.under_hero_divide{
+    background-color: #707CCE;
+    padding-top: 20px;
+}
+
+#thank_you_message {
+    margin-top: 93.5px;
+    margin-bottom: 93.5px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 0 4px 6px #2f3d4265;
+}
 /* Resource Page */
 /* Resource Page Intro */
 
@@ -241,6 +253,17 @@ header {
     #carousel-text h5 {
         font-size: 140% !important;
     }
+    
+    /* RESOURCE */
+
+    /* No Edits Needed */
+
+    /* CONTACT US */
+
+    /* No Edits Needed */
+
+    /* THANK YOU PAGE*/
+
     
 }
 
