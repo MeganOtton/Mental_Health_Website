@@ -140,6 +140,7 @@ header {
     color: #434db0 !important;
     background-color: #F5F1FF !important;
     box-shadow: 0 4px 6px #2f3d4265;
+    border-radius: 10px;
 }
 
 .card-title {
@@ -196,7 +197,13 @@ header {
     filter: invert(61%) sepia(35%) saturate(1506%) hue-rotate(201deg) brightness(100%) contrast(100%);
 }
 
-/* Footer Styles are all inline */
+#footer {
+    background-color: #535fc9f6;
+    color: white;
+    font-family: 'Zain', sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+}
 
 /* Contact Us Page */
 /* Emergency Disclaimer */
@@ -255,10 +262,9 @@ header {
         font-size: 110% !important;
     }
 
-    /* About Section */
-    /* .about-text{
-       font-size: 800px;
-    } */
+    .about-image {
+        display: none;
+    }
 
     /*Carousel*/
     #carousel-text h5 {
@@ -340,7 +346,6 @@ header {
 /* Media Query for Large Mobile */
 @media screen and (min-width: 376px) and (max-width: 425px) {
     /* INDEX */
-    /* No Edits Needed */
     
     /* RESOURCE */
     #resource-text {
@@ -399,6 +404,16 @@ header {
 /* Media Query for Tablet */
 @media screen and (min-width: 426px) and (max-width: 768px) {
     /* INDEX */
+
+    /* Navbar */
+    #navbarNav {
+        font-size: 26px;
+    }
+
+    .navbar-brand {
+        font-size: 140% !important;
+    }
+
     /* Hero Section */
     img.hero-image {
         margin-top: 0px !important;
@@ -408,8 +423,18 @@ header {
         font-size: 200%;
     }
 
-    .about-text {
-        font-size: 400% !important;
+    #about-text {
+        font-size: 32px !important;
+        padding-top: 10px;
+    }
+
+    .about {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    #about-button {
+        font-size: 25px !important;
     }
 
     /* Card Section */
@@ -420,16 +445,204 @@ header {
     }
 
     .card-body {
-        height: 288px !important;
-        font-size: 170%;
+        font-size: 30px;
     }
 
     .row {
         justify-content: center;
     }
 
+    /* Uplifting Messages */
+    #carousel-text h5 {
+        font-size: 30px !important;
+    }
+
+    /* Footer */
+    #footer {
+        font-size: 24px;
+    }
+
     /* RESOURCES */
-    /* Resources  */
+    /* Emergency */
+    #emergency-text {
+        font-size: 32px !important;
+    }
 
+    /* Resource Page Intro */
+    #resource-text {
+        font-size: 32px;
+    }
 
+    /* Resource Cards */
+    .card-text {
+        font-size: 32px;
+    }
+
+    /* CONTACT US */
+    #emergency-text{
+        font-size: 30px !important;
+    }
+
+    #form-text {
+        font-size: 160%;
+        margin-bottom: 90px;
+    }
+    
+    #contact-form {
+        margin-bottom: 14px !important;
+    }
+
+    #name {
+        font-size: 30px;
+    }
+
+    #email {
+        font-size: 30px;
+    }
+
+    #subject {
+        font-size: 30px;
+    }
+
+    #message {
+        font-size: 30px;
+    }
+
+    #contact_form_button {
+        font-size: 30px !important;
+    }
+
+    /* THANK YOU PAGE*/
+    .under_hero_divide {
+        padding-top: 40px;
+    }
+
+    #thank_you_message {
+        margin-bottom: 115px;
+        margin-top: 90px;
+    }
+    
+}
+
+/* Media Query for Laptop 1024*/
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    /* INDEX */
+
+    /* Navbar */
+    #navbarNav {
+        font-size: 26px;
+    }
+
+    .navbar-brand {
+        font-size: 140% !important;
+    }
+
+    /* Hero Section */
+    img.hero-image {
+        margin-top: 0px !important;
+    }
+
+    #hero_text_main {
+        font-size: 200%;
+    }
+
+    #about-text {
+        font-size: 32px !important;
+        padding-top: 10px;
+    }
+
+    .about {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    #about-button {
+        font-size: 25px !important;
+    }
+
+    /* Card Section */
+    .col-md-3 {
+        width: 100% !important;
+        padding-left: 6px !important;
+        padding-right: 6px !important;
+    }
+
+    .card-body {
+        font-size: 30px;
+    }
+
+    .row {
+        justify-content: center;
+    }
+
+    /* Uplifting Messages */
+    #carousel-text h5 {
+        font-size: 30px !important;
+    }
+
+    /* Footer */
+    #footer {
+        font-size: 24px;
+    }
+
+    /* RESOURCES */
+    /* Emergency */
+    #emergency-text {
+        font-size: 32px !important;
+    }
+
+    /* Resource Page Intro */
+    #resource-text {
+        font-size: 32px;
+    }
+
+    /* Resource Cards */
+    .card-text {
+        font-size: 32px;
+    }
+
+    /* CONTACT US */
+    #emergency-text{
+        font-size: 30px !important;
+    }
+
+    #form-text {
+        font-size: 160%;
+        margin-bottom: 90px;
+    }
+    
+    #contact-form {
+        margin-bottom: 14px !important;
+    }
+
+    #name {
+        font-size: 30px;
+    }
+
+    #email {
+        font-size: 30px;
+    }
+
+    #subject {
+        font-size: 30px;
+    }
+
+    #message {
+        font-size: 30px;
+    }
+
+    #contact_form_button {
+        font-size: 30px !important;
+    }
+
+    /* THANK YOU PAGE*/
+    .under_hero_divide {
+        padding-top: 40px;
+    }
+
+    #thank_you_message {
+        margin-bottom: 115px;
+        margin-top: 90px;
+    }
+    
 }
