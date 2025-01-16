@@ -5,9 +5,9 @@
 /* main colors */
 
 /* General Code */
-@media screen and (-webkit-min-device-pixel-ratio:0) {
+@supports (hanging-punctuation: first) and (font: -apple-system-body) and (-webkit-appearance: none) {
     body {
-        color: #8189fd;
+    background-color: #8189fd;
     }
 }
 
