@@ -5,6 +5,11 @@
 /* main colors */
 
 /* General Code */
+
+main {
+    margin-bottom: 60px;
+    margin-top: 40px;
+}
 /* Background color for the whole webpage */
 body {
     background: linear-gradient(to bottom, #efd5ff 0%, #8189fd 100%);
