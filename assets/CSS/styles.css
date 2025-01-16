@@ -133,13 +133,18 @@ header {
     margin-top: 0px;
 }
 
+.card {
+    box-shadow: 0 4px 6px #2f3d4265;
+    border-radius: 10px;
+    border: 3px solid #707CCE !important;
+}
+
 .card-body {
     font-family: 'Zain', sans-serif;
     font-weight: 350;
     font-size: 25px;
     color: #434db0 !important;
     background-color: #F5F1FF !important;
-    box-shadow: 0 4px 6px #2f3d4265;
     border-radius: 10px;
 }
 
@@ -186,6 +191,8 @@ header {
 
 #carousel-text h5 {
     font-size: 160% !important;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .carousel-control-prev-icon {
@@ -215,6 +222,12 @@ header {
 }
 
 /* Form */
+#contact_us_form_text {
+    font-family: 'Zain', sans-serif; 
+    padding-bottom: 19px; 
+    font-size: 124%;
+}
+
 #form-text {
     color: #434db0;
     font-family: 'Zain', sans-serif;
@@ -268,7 +281,7 @@ header {
 
     /*Carousel*/
     #carousel-text h5 {
-        font-size: 25px!important;
+        font-size: 25px !important;
     }
     
     /* RESOURCE */
@@ -292,7 +305,9 @@ header {
 /* Media Query for Medium Mobile */
 @media screen and (min-width: 321px) and (max-width: 375px) {
     /* INDEX */
-    /* No Edits Needed */
+    .about-image {
+        display: none;
+    }
     
     /* RESOURCE */
     #resource-text {
@@ -346,7 +361,10 @@ header {
 /* Media Query for Large Mobile */
 @media screen and (min-width: 376px) and (max-width: 425px) {
     /* INDEX */
-    
+    .about-image {
+        display: none;
+    }
+
     /* RESOURCE */
     #resource-text {
         font-size: 25px;
@@ -428,13 +446,17 @@ header {
         padding-top: 10px;
     }
 
+    #hero-button {
+        font-size: 25px !important;
+    }
+
     .about {
         margin-bottom: 20px;
         margin-top: 20px;
     }
 
-    #about-button {
-        font-size: 25px !important;
+    .about-image {
+        display: none;
     }
 
     /* Card Section */
@@ -542,13 +564,16 @@ header {
         margin-top: 0px !important;
     }
 
-    #hero_text_main {
-        font-size: 200%;
+    #hero_text_title {
+        font-size: 35px;
     }
 
-    #about-text {
-        font-size: 32px !important;
-        padding-top: 10px;
+    #hero_text_main {
+        font-size: 25px;
+    }
+
+    #hero-button {
+        font-size: 25px !important;
     }
 
     .about {
@@ -556,19 +581,46 @@ header {
         margin-top: 20px;
     }
 
-    #about-button {
+    #about-text {
         font-size: 25px !important;
+        padding-top: 10px;
+    }
+
+    .about-image {
+        width: 33% !important;
+        height: 307.5px;
+        margin-right: 20px;
+        border-radius: 10px;
+        object-fit: cover; 
+        box-shadow: 0 4px 6px #2f3d4265;
+        border: 3px solid #ffffff;
     }
 
     /* Card Section */
+    #mental_health_info_title {
+        font-size: 35px;
+    }
+
     .col-md-3 {
-        width: 100% !important;
+        width: 33% !important;
         padding-left: 6px !important;
         padding-right: 6px !important;
     }
 
+    .card-img-top {
+        height: 201.86px;
+    }
+
+    .card-title {
+        font-size: 35px;
+    }
+
+    .card-text {
+        font-size: 25px;
+    }
+
     .card-body {
-        font-size: 30px;
+        height: 382px;
     }
 
     .row {
@@ -576,29 +628,62 @@ header {
     }
 
     /* Uplifting Messages */
+    .uplifting_messages h1{
+        font-size: 35px !important;
+    }
+
     #carousel-text h5 {
-        font-size: 30px !important;
+        font-size: 25px !important;
     }
 
     /* Footer */
     #footer {
-        font-size: 24px;
+        font-size: 20px;
     }
 
     /* RESOURCES */
     /* Emergency */
+    .emergency {
+        margin-top: 90px;
+    }
+
     #emergency-text {
-        font-size: 32px !important;
+        font-size: 35px !important;
     }
 
     /* Resource Page Intro */
+    #resource-title {
+        font-size: 35px;
+    }
+
     #resource-text {
-        font-size: 32px;
+        font-size: 25px;
     }
 
     /* Resource Cards */
-    .card-text {
-        font-size: 32px;
+    #childline-image {
+        height: 93.93px;
+    }
+
+    #mix_image {
+        height: 100%;
+    }
+
+    #ceop_image {
+        height: 93.93px;
+        width: fit-content;
+    }
+
+    #childline {
+        height: 374px; 
+    }
+
+    #mix {
+        height: 374px;
+    }
+
+    #ceop {
+        height: 374px;
     }
 
     /* CONTACT US */
@@ -608,7 +693,11 @@ header {
 
     #form-text {
         font-size: 160%;
-        margin-bottom: 90px;
+    }
+
+    #contact_us_form_text {
+        margin-bottom: 0px;
+        padding-bottom: 10px;
     }
     
     #contact-form {
@@ -641,8 +730,8 @@ header {
     }
 
     #thank_you_message {
-        margin-bottom: 115px;
-        margin-top: 90px;
+        margin-bottom: 65px;
+        margin-top: 66.5px;
     }
     
 }
