@@ -1,7 +1,7 @@
-#### Add Hero Image
+![Mental Minds Hero JPG](https://github.com/user-attachments/assets/0013aac5-2dee-48a4-88f0-63e0b679424d)
+<h1 align="center">Mental Mind</h1>
 
-# Mental Minds
-| Add Live Link Here |
+<p align="center"> | Add Live Link Here | </p>
 
 <h1 align="center"> Introduction: </h1>
 ___
