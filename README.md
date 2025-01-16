@@ -30,7 +30,6 @@ The page developed as part of this project documents the organisation's resource
 
 ## UX Design
 
-
 ### User Stories
 
 As a website visitor, I want an easy-to-navigate multi-page layout, so that I can quickly find different sections such as articles, resources, and the contact page.
@@ -53,9 +52,9 @@ Color selection is a important part to any design, however with the nature of th
 
 Fonts was another thing to consider when deciding this website, the emotions i convey to the user is really important. 
 
-FONT CHOICE 1 was used for Logos, Headings and other elements that are of significance. It is a DESCRIPTIVE WORD (IE PLAYFUL, FUN, CALMING ETC)
+Lemon was used for the logo and brand name, it is a creative and calming font that makes the brand look more approachable and less like an organisation.
 
-FONT CHOICE 2 was used for Logos, Headings and other elements that are of significance. It is a DESCRIPTIVE WORD (IE PLAYFUL, FUN, CALMING ETC)
+Zain was used for the other elements it is also a calming font and very easy to read. 
 
 ## Wireframes
 
@@ -82,9 +81,9 @@ The imagery is an important way to get infromation across to the users, with tha
 - Appropriate for the intended audience (16 and above),
 - Avoid triggering or sensitive imagery or themes.
 
-Due to the sensitive nature of the project and mental health in itself, i want to avoid any images that can be harmful to the user. The images and icons that are going to be used need to be calm and cheerful, with that in mind i will not be using any realistic imagery when it comes to mental health issues. I will be using more illustrated imagery to represent the issues to be more sensitive to the users.
+Due to the sensitive nature of the project and mental health in itself, i want to avoid any images that can be harmful to the user. The images and icons that are going to be used need to be calm and cheerful, with that in mind i will not be using any realistic imagery when it comes to mental health issues. I will be using more illustrated imagery to represent the issues to be more sensitive to the users. 
 
-Image Credit: CREDIT FOR IMAGES
+Image Credit: Adobe Stock Images
 
 ## Features
 
@@ -93,24 +92,25 @@ In order to fulfil the criteria set out by the user stories, listed above, the p
 
 Upon coding the projectand implementing the Bootstrap Framework the features and design shifted slightly from the original wireframe.
 Some key adjustments are as follow:
-- LIST
-- LIST
+- On the Index I decided against using images of peoples face when it came to the carousel, i decided to use inspirational/uplifting messages insetad of reviews or personal stories to make the website seem more confidential,
+- On the index instead of adding a margin around the website i scaled the website accordingly,
+- I removed the bottom image from the resource page on higher resolutions, this was due to the new scale not needing a filler image at the bottom,
+- For the same reason above i removed the filler image on the contact page.
 
 #### Navigation and Hero Section
-EXPLANATION BOOTSTRAP
+I used Copilot to generate a Bootstrap 5 Navbar, I then customised it fully with CSS.
 
-IMAGE
+![image](https://github.com/user-attachments/assets/6a1288fd-fc67-49f2-942d-4d817b911419)
 
 #### CARDS
-EXPLANATION BOOTSTRAP
+This was another Bootstrap 5 element that was generated through Copilot, I have done less customization of these elements as i did with the navbar element, i just changed the outline, text size and colour as well as adding a simple box shadow.
 
-IMAGE
+![image](https://github.com/user-attachments/assets/b1fe38b6-1a8e-49c5-9856-de501eb321d0)
 
-#### FOOTER
-EXPLANATION BOOTSTRAP
+#### CAROUSEL & FOOTER
+The carousel and footer was done in the same fashion as above, however these elements especially the carousel had a lot more edits done to them. When it came to the icons for the carousel i didnt want them to be white nor black adn did not know SCSS or how to use Sass variables so i had to manually using an inverter CSS code line to get the perfect shade of purple which took a lot of time and experimentation. I had to get a more experienced coders help to achieve this credit to Charlie Flockhart.
 
-IMAGE
-
+![image](https://github.com/user-attachments/assets/3fbd893b-65af-4cdd-aefb-6d6569d7fb25)
 
 ## Responsive Design
 
