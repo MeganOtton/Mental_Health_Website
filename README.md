@@ -96,17 +96,17 @@ Some key adjustments are as follow:
 #### Navigation and Hero Section
 I used Copilot to generate a Bootstrap 5 Navbar, I then customised it fully with CSS.
 
-![image](https://github.com/user-attachments/assets/6a1288fd-fc67-49f2-942d-4d817b911419)
+![image](/Readme_Resources/Hero_Nav.png)
 
 #### CARDS
 This was another Bootstrap 5 element that was generated through Copilot, I have done less customization of these elements as i did with the navbar element, i just changed the outline, text size and colour as well as adding a simple box shadow.
 
-![image](https://github.com/user-attachments/assets/b1fe38b6-1a8e-49c5-9856-de501eb321d0)
+![image](/Readme_Resources/Cards.png)
 
 #### CAROUSEL & FOOTER
 The carousel and footer was done in the same fashion as above, however these elements especially the carousel had a lot more edits done to them. When it came to the icons for the carousel i didnt want them to be white nor black adn did not know SCSS or how to use Sass variables so i had to manually using an inverter CSS code line to get the perfect shade of purple which took a lot of time and experimentation. I had to get a more experienced coders help to achieve this credit to Charlie Flockhart.
 
-![image](https://github.com/user-attachments/assets/3fbd893b-65af-4cdd-aefb-6d6569d7fb25)
+![image](/Readme_Resources/Car_Footer.png)
 
 ## Responsive Design
 
