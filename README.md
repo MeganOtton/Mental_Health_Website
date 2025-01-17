@@ -117,7 +117,7 @@ With some experimentation I have been able to create a page that is fully respon
 
 Below is an image of my website from different devices.
 
-![image](https://github.com/user-attachments/assets/3e578e95-5dab-4296-a27b-4802e8af0577)
+![image](/Readme_Resources/Responsive.png)
 
 Improvements:
 
@@ -178,33 +178,33 @@ I would like to have a smoother website between the different media Queries as s
 
 Index Page:
 
-![image](https://github.com/user-attachments/assets/fdf6e4c4-d345-46be-842b-89c1af431429)
+![image](/Readme_Resources/Index%20Checker.png)
 Error warning for a H1 element used.
 
 
 Resource Page:
 
-![image](https://github.com/user-attachments/assets/54abe7f7-894e-475e-b98d-1e3886f58abb)
+![image](/Readme_Resources/resource_checker.png)
 
 
 Contact Page:
 
-![image](https://github.com/user-attachments/assets/e3d4e89b-c325-40a0-83c3-b1b598653036)
+![image](/Readme_Resources/Contact%20Checker.png)
 
 
 Thank you Page:
 
-![image](https://github.com/user-attachments/assets/770ff5af-1410-4e8d-a026-3728ffe9bb5b)
+![image](/Readme_Resources/Thank%20you%20Checker.png)
 
 
 CSS:
 
-![image](https://github.com/user-attachments/assets/9b582c1d-087a-41d8-aa17-cdab48a7e910)
+![image](/Readme_Resources/CSS%20Checker.png)
 
 
 JS:
 
-![image](https://github.com/user-attachments/assets/7b682c5b-d469-4bf2-9eae-04b10d592538)
+![image](/Readme_Resources/JS%20Checker.png)
 
 
 
