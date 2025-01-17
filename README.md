@@ -119,6 +119,10 @@ Below is an image of my website from different devices.
 
 ![image](https://github.com/user-attachments/assets/3e578e95-5dab-4296-a27b-4802e8af0577)
 
+Improvements:
+
+I would like to have a smoother website between the different media Queries as some of the more unique resolutions can be mismatched to other resolutions.
+
 
 ## AI Implementation
 
@@ -147,9 +151,23 @@ Below is an image of my website from different devices.
 | Index / Carousel Messages       | Auto Scroll     | Automatically Scrolls after 6 Seconds to the next Card Carousel | Pass      |
 | Contact-Us / Form      | Form Inputs     | Allows User to input data into the form                         | Pass      |
 | Contact-Us / Form      | Send Message Button     | Allows User to send the data inputted to the website    | Pass      |
+| Thank You / Button      | Return to Home Button     | Allows User to go back to home page   | Pass      |
 
 
-- Conducted multiple tests on Emulated Mobile, Ipad and Laptop and Desktop. Along with a Manual Test On  Mobile, Ipad and Laptop and Desktop, testing all webpages and links are working correctly. 
+- Conducted multiple tests on Emulated Mobile, Ipad and Laptop and Desktop. Along with a Manual Test On  Mobile, Ipad and Desktop, testing all webpages and links are working correctly.
+  
+     - Mobile Iphone 16 +
+     - Mobile Iphone 13 Mini
+     - IPad Pro 2024
+     - 1080P (Desktop Most Common Displays)
+     - 1440P (Desktop Most Common Displays)
+     - 4K (Desktop Most Common Displays)
+ 
+     - Google Chrome
+     - Safari
+     - Opera GX
+     - Microsoft Edge
+
 - All information can be read clearly and the page is responsive.
 
 ### Bugs
@@ -160,19 +178,33 @@ Below is an image of my website from different devices.
 
 Index Page:
 
-![image](https://github.com/user-attachments/assets/a196762a-9760-4cad-a7a6-fa425096a7fe)
+![image](https://github.com/user-attachments/assets/fdf6e4c4-d345-46be-842b-89c1af431429)
+Error warning for a H1 element used.
+
 
 Resource Page:
 
-![image](https://github.com/user-attachments/assets/a196762a-9760-4cad-a7a6-fa425096a7fe)
+![image](https://github.com/user-attachments/assets/54abe7f7-894e-475e-b98d-1e3886f58abb)
+
 
 Contact Page:
 
-![image](https://github.com/user-attachments/assets/a196762a-9760-4cad-a7a6-fa425096a7fe)
+![image](https://github.com/user-attachments/assets/e3d4e89b-c325-40a0-83c3-b1b598653036)
+
 
 Thank you Page:
 
-![image](https://github.com/user-attachments/assets/a196762a-9760-4cad-a7a6-fa425096a7fe)
+![image](https://github.com/user-attachments/assets/770ff5af-1410-4e8d-a026-3728ffe9bb5b)
+
+
+CSS:
+
+![image](https://github.com/user-attachments/assets/9b582c1d-087a-41d8-aa17-cdab48a7e910)
+
+
+JS:
+
+![image](https://github.com/user-attachments/assets/7b682c5b-d469-4bf2-9eae-04b10d592538)
 
 
 
