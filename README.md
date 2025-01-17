@@ -3,6 +3,7 @@
 
 <div align="center"> 
 <a target="_blank" href="https://meganotton.github.io/Mental_Health_Website/"> | Live Link Here | </a>
+<a target="_blank" href="https://github.com/users/MeganOtton/projects/2"> | Project Board | </a>
 </div align="center"> 
 
 <h1 align="center"> Introduction: </h1>
