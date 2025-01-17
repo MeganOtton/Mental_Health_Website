@@ -113,6 +113,17 @@ div.hero-text{
     font-weight: 300;
 }
 
+#about-text-1 {
+    font-size: 25px ;
+    font-weight: 300;
+}
+
+#about-text-2 {
+    font-size: 25px ;
+    font-weight: 300;
+}
+
+
 /* Card Section */
 .mental_health_info_title {
     background-color: #707CCE;
@@ -200,6 +211,31 @@ header {
     padding-right: 30px;
 }
 
+#carousel-text-1 h5 {
+    font-size: 160% !important;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#carousel-text-2 h5 {
+    font-size: 160% !important;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#carousel-text-3 h5 {
+    font-size: 160% !important;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#carousel-text-4 h5 {
+    font-size: 160% !important;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
 .carousel-control-prev-icon {
     filter: invert(61%) sepia(35%) saturate(1506%) hue-rotate(201deg) brightness(100%) contrast(100%);
     
@@ -286,6 +322,22 @@ header {
 
     /*Carousel*/
     #carousel-text h5 {
+        font-size: 25px !important;
+    }
+
+    #carousel-text-1 h5 {
+        font-size: 25px !important;
+    }
+
+    #carousel-text-2 h5 {
+        font-size: 25px !important;
+    }
+
+    #carousel-text-3 h5 {
+        font-size: 25px !important;
+    }
+
+    #carousel-text-4 h5 {
         font-size: 25px !important;
     }
     
@@ -458,6 +510,16 @@ header {
         padding-top: 10px;
     }
 
+    #about-text-1 {
+        font-size: 32px !important;
+        padding-top: 10px;
+    }
+
+    #about-text-2 {
+        font-size: 32px !important;
+        padding-top: 10px;
+    }
+
     #hero-button {
         font-size: 25px !important;
     }
@@ -488,6 +550,22 @@ header {
 
     /* Uplifting Messages */
     #carousel-text h5 {
+        font-size: 30px !important;
+    }
+
+    #carousel-text-1 h5 {
+        font-size: 30px !important;
+    }
+
+    #carousel-text-2 h5 {
+        font-size: 30px !important;
+    }
+
+    #carousel-text-3 h5 {
+        font-size: 30px !important;
+    }
+
+    #carousel-text-4 h5 {
         font-size: 30px !important;
     }
 
@@ -601,6 +679,16 @@ header {
         padding-top: 10px;
     }
 
+    #about-text-1 {
+        font-size: 25px !important;
+        padding-top: 10px;
+    }
+
+    #about-text-2 {
+        font-size: 25px !important;
+        padding-top: 10px;
+    }
+
     .about-image {
         width: 33% !important;
 
@@ -654,6 +742,22 @@ header {
     }
 
     #carousel-text h5 {
+        font-size: 25px !important;
+    }
+
+    #carousel-text-1 h5 {
+        font-size: 25px !important;
+    }
+
+    #carousel-text-2 h5 {
+        font-size: 25px !important;
+    }
+
+    #carousel-text-3 h5 {
+        font-size: 25px !important;
+    }
+
+    #carousel-text-4 h5 {
         font-size: 25px !important;
     }
 
@@ -807,6 +911,16 @@ header {
         padding-top: 10px;
     }
 
+    #about-text-1 {
+        font-size: 30px !important;
+        padding-top: 10px;
+    }
+
+    #about-text-2 {
+        font-size: 30px !important;
+        padding-top: 10px;
+    }
+
     .about-image {
         width: 33% !important;
 
@@ -861,6 +975,22 @@ header {
     }
 
     #carousel-text h5 {
+        font-size: 30px !important;
+    }
+
+    #carousel-text-1 h5 {
+        font-size: 30px !important;
+    }
+
+    #carousel-text-2 h5 {
+        font-size: 30px !important;
+    }
+
+    #carousel-text-3 h5 {
+        font-size: 30px !important;
+    }
+
+    #carousel-text-4 h5 {
         font-size: 30px !important;
     }
 
@@ -919,9 +1049,6 @@ header {
         height: 458px;
     }
 
-    #resource-row {
-
-    }
 
     /* CONTACT US */
     #form-text {
@@ -1017,6 +1144,16 @@ header {
         padding-top: 10px;
     }
 
+    #about-text-1 {
+        font-size: 40px !important;
+        padding-top: 10px;
+    }
+
+    #about-text-2 {
+        font-size: 40px !important;
+        padding-top: 10px;
+    }
+
     .about-image {
         width: 33% !important;
         height: 498px;
@@ -1069,6 +1206,22 @@ header {
     }
 
     #carousel-text h5 {
+        font-size: 40px !important;
+    }
+
+    #carousel-text-1 h5 {
+        font-size: 40px !important;
+    }
+
+    #carousel-text-2 h5 {
+        font-size: 40px !important;
+    }
+
+    #carousel-text-3 h5 {
+        font-size: 40px !important;
+    }
+
+    #carousel-text-4 h5 {
         font-size: 40px !important;
     }
 
@@ -1226,6 +1379,16 @@ header {
         padding-top: 10px;
     }
 
+    #about-text-1 {
+        font-size: 40px !important;
+        padding-top: 10px;
+    }
+
+    #about-text-2 {
+        font-size: 40px !important;
+        padding-top: 10px;
+    }
+
     .about-image {
         width: 33% !important;
         height: 378px;
@@ -1278,6 +1441,22 @@ header {
     }
 
     #carousel-text h5 {
+        font-size: 40px !important;
+    }
+
+    #carousel-text-1 h5 {
+        font-size: 40px !important;
+    }
+
+    #carousel-text-2 h5 {
+        font-size: 40px !important;
+    }
+
+    #carousel-text-3 h5 {
+        font-size: 40px !important;
+    }
+
+    #carousel-text-4 h5 {
         font-size: 40px !important;
     }
 
@@ -1437,6 +1616,16 @@ header {
         padding-top: 10px;
     }
 
+    #about-text-1 {
+        font-size: 40px !important;
+        padding-top: 10px;
+    }
+
+    #about-text-2 {
+        font-size: 40px !important;
+        padding-top: 10px;
+    }
+
     .about-image {
         width: 33% !important;
         height: 318px;
@@ -1485,6 +1674,22 @@ header {
     }
 
     #carousel-text h5 {
+        font-size: 40px !important;
+    }
+
+    #carousel-text-1 h5 {
+        font-size: 40px !important;
+    }
+
+    #carousel-text-2 h5 {
+        font-size: 40px !important;
+    }
+
+    #carousel-text-3 h5 {
+        font-size: 40px !important;
+    }
+
+    #carousel-text-4 h5 {
         font-size: 40px !important;
     }
 
