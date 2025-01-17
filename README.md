@@ -206,5 +206,12 @@ JS:
 
 ![image](/Readme_Resources/JS%20Checker.png)
 
+Lighthouse:
+
+Mobile
+![image](/Readme_Resources/Lighthouse_Index_Mobile.png)
+
+Desktop
+![image](/Readme_Resources/Lighthouse_Index_Desktop.png)
 
 
