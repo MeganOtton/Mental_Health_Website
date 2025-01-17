@@ -633,6 +633,10 @@ header {
         justify-content: center;
     }
 
+    #resource-row {
+        margin-bottom: 462px;
+    }
+
     /* Uplifting Messages */
     .uplifting_messages h1{
         font-size: 35px !important;
@@ -821,11 +825,15 @@ header {
     }
 
     .card-body {
-        height: 382px;
+        height: 532px;
     }
 
     .row {
         justify-content: center;
+    }
+
+    #resource-row {
+        margin-bottom: 327px;
     }
 
     /* Uplifting Messages */
@@ -877,7 +885,7 @@ header {
     }
 
     #childline {
-        height: 458px; 
+        height: 458px;  
     }
 
     #mix {
@@ -886,6 +894,10 @@ header {
 
     #ceop {
         height: 458px;
+    }
+
+    #resource-row {
+
     }
 
     /* CONTACT US */
@@ -1022,6 +1034,10 @@ header {
 
     .row {
         justify-content: center;
+    }
+
+    #resource-row {
+        margin-bottom: 376px;
     }
 
     /* Uplifting Messages */
@@ -1226,6 +1242,10 @@ header {
         justify-content: center;
     }
 
+    #resource-row {
+        margin-bottom: 376px;
+    }
+
     /* Uplifting Messages */
     .uplifting_messages h1{
         font-size: 45px !important;
@@ -1239,9 +1259,7 @@ header {
     #footer {
         font-size: 30px;
         padding-bottom: 10px;
-        position: fixed;
-        bottom: 0;
-        width: 100%;
+        
     }
 
     /* RESOURCES */
@@ -1301,7 +1319,7 @@ header {
     }
     
     #contact-form {
-        margin-bottom: 14px !important;
+        margin-bottom: 21px !important;
         width: 1000px;
     }
 
