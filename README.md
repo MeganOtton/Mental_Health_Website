@@ -1,4 +1,4 @@
-![Mental Minds Hero JPG](/Readme%20Resources/Hero_Image_Resource.png)
+![Mental Minds Hero JPG](/Readme_Resources/Hero_Image_Resource.png)
 <h1 align="center">Mental Mind</h1>
 
 <div align="center"> 
@@ -57,15 +57,15 @@ Zain was used for the other elements it is also a calming font and very easy to 
 These wireframes have been created using Balsamiq to define the key feature layout to guide the user experience design as well as blocking out the rough color pallete to identify any key issues. I will be utilising Bootstrap's framework to help blockout the website key elements. 
 #### Index Page
 
-![Index Wireframe](/Readme%20Resources/Index%20Checker.png)
+![Index Wireframe](/Readme_Resources/Index%20Wireframe.png)
 
 #### Resources Page
 
-![Resources Wireframe](/Readme%20Resources/)
+![Resources Wireframe](/Readme_Resources/Resources%20Wireframe.png)
 
 #### Contact Us Page
 
-![Contact Us Wireframe](https://github.com/user-attachments/assets/c77d6d64-d6c1-4a44-8c37-fa02c278a719)
+![Contact Us Wireframe](/Readme_Resources/Contact%20Us%20Wireframe.png)
 
 ## Imagery
 
