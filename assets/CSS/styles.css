@@ -581,6 +581,8 @@ header {
     .about {
         margin-bottom: 20px;
         margin-top: 20px;
+        height: 420px;
+
     }
 
     #about-text {
@@ -590,7 +592,9 @@ header {
 
     .about-image {
         width: 33% !important;
+
         height: 420px;
+
         margin-right: 20px;
         border-radius: 10px;
         object-fit: cover; 
@@ -771,6 +775,8 @@ header {
     .about {
         margin-bottom: 20px;
         margin-top: 20px;
+
+        height: 441px;
     }
 
     #about-text {
@@ -780,7 +786,9 @@ header {
 
     .about-image {
         width: 33% !important;
-        height: 306px;
+
+        height: 441px;
+
         margin-right: 10px;
         margin-left: 0px !important;
         border-radius: 10px;
@@ -966,6 +974,7 @@ header {
     .about {
         margin-bottom: 20px;
         margin-top: 20px;
+        height: 498px;
     }
 
     #about-text {
@@ -975,7 +984,7 @@ header {
 
     .about-image {
         width: 33% !important;
-        height: 378px;
+        height: 498px;
         margin-right: 10px;
         margin-left: 0px !important;
         border-radius: 10px;
@@ -1167,6 +1176,7 @@ header {
     .about {
         margin-bottom: 20px;
         margin-top: 20px;
+        height: 378px;
     }
 
     #about-text {
@@ -1368,6 +1378,7 @@ header {
     .about {
         margin-bottom: 20px;
         margin-top: 20px;
+        height: 318px;
     }
 
     #about-text {
@@ -1377,7 +1388,7 @@ header {
 
     .about-image {
         width: 33% !important;
-        height: 378px;
+        height: 318px;
         margin-right: 10px;
         margin-left: 0px !important;
         border-radius: 10px;
