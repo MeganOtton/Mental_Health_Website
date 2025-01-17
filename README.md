@@ -133,4 +133,31 @@ Below is an image of my website from different devices.
 #### - Overall Impact
   - AI tools streamlined repetive tasks and basic jobs, enabling me to focus on the more complex elements of the development. (Same goes for the Bootstrap elements)
 
+## Testing and QA
+
+| Location               | Feature         | Expected Outcome                                                | Pass/Fail |
+| ---------------------- | --------------- | --------------------------------------------------------------- | --------- |
+| Index / Nav Bar        | Contact Button  | Takes User to contact-us.html page                              | Pass      |
+| Index / Nav Bar        | Resources Button  | Takes User to resource.html page                              | Pass      |
+| Index / Nav Bar        | Home Button       | Takes User to index.html page                                 | Pass      |
+| Index / Nav Bar        | Brand Name Button | Takes User to index.html page                                 | Pass      |
+| Index / Contact Us     | Previous Button | Takes User to contact-us.html page                              | Pass      |
+| Index / Carousel       | Next Button     | Take User to next Card Carousel                                 | Pass      |
+| Index / Carousel       | Previous Button | Take User to previous Card Carousel                             | Pass      |
+| Index / Carousel Messages       | Auto Scroll     | Automatically Scrolls after 6 Seconds to the next Card Carousel | Pass      |
+| Contact-Us / Form      | Form Inputs     | Allows User to input data into the form                         | Pass      |
+| Contact-Us / Form      | Send Message Button     | Allows User to send the data inputted to the website    | Pass      |
+
+
+- Conducted multiple tests on Emulated Mobile, Ipad and Laptop and Desktop. Along with a Manual Test On  Mobile, Ipad and Laptop and Desktop, testing all webpages and links are working correctly. 
+- All information can be read clearly and the page is responsive.
+
+### Bugs
+
+- No Bugs Found
+
+### Validation
+
+
+
 
