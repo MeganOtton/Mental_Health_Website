@@ -44,9 +44,7 @@ As a user curious about mental health, I want to read information on various men
 
 ### Color Design
 
-Color selection is a important part to any design, however with the nature of the project this consideration is even greater due to the needs of the end user and the potential for negatively impacting their well-being. Colors have connotations to various emotions and using 'calming' colours has been linked to a more stable mental state.
-
-#### Add Color Pallette Image
+Color selection is a important part to any design, however with the nature of the project this consideration is even greater due to the needs of the end user and the potential for negatively impacting their well-being. Colors have connotations to various emotions and using 'calming' colours has been linked to a more stable mental state. I chose a series of light purples which are quite soothing and plain enough not to overstimulate the users eyes. 
 
 ### Fonts
 
