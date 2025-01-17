@@ -147,6 +147,7 @@ Below is an image of my website from different devices.
 | Index / Carousel Messages       | Auto Scroll     | Automatically Scrolls after 6 Seconds to the next Card Carousel | Pass      |
 | Contact-Us / Form      | Form Inputs     | Allows User to input data into the form                         | Pass      |
 | Contact-Us / Form      | Send Message Button     | Allows User to send the data inputted to the website    | Pass      |
+| Thank You / Button      | Return to Home Button Button     | Allows User to go back to home page   | Pass      |
 
 
 - Conducted multiple tests on Emulated Mobile, Ipad and Laptop and Desktop. Along with a Manual Test On  Mobile, Ipad and Laptop and Desktop, testing all webpages and links are working correctly. 
@@ -160,19 +161,24 @@ Below is an image of my website from different devices.
 
 Index Page:
 
-![image](https://github.com/user-attachments/assets/a196762a-9760-4cad-a7a6-fa425096a7fe)
+![image](https://github.com/user-attachments/assets/fdf6e4c4-d345-46be-842b-89c1af431429)
+Error warning for a H1 element used.
+
 
 Resource Page:
 
-![image](https://github.com/user-attachments/assets/a196762a-9760-4cad-a7a6-fa425096a7fe)
+![image](https://github.com/user-attachments/assets/54abe7f7-894e-475e-b98d-1e3886f58abb)
+
 
 Contact Page:
 
-![image](https://github.com/user-attachments/assets/a196762a-9760-4cad-a7a6-fa425096a7fe)
+![image](https://github.com/user-attachments/assets/e3d4e89b-c325-40a0-83c3-b1b598653036)
+
 
 Thank you Page:
 
-![image](https://github.com/user-attachments/assets/a196762a-9760-4cad-a7a6-fa425096a7fe)
+![image](https://github.com/user-attachments/assets/770ff5af-1410-4e8d-a026-3728ffe9bb5b)
+
 
 
 
