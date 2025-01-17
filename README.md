@@ -121,7 +121,8 @@ With some experimentation I have been able to create a page that is fully respon
 
 Below is an image of my website from different devices.
 
-INSERT IMAGE FROM RESPONSIVE WEBSITE (CREDIT WEBSITE)
+![image](https://github.com/user-attachments/assets/3e578e95-5dab-4296-a27b-4802e8af0577)
+
 
 ## AI Implementation
 
