@@ -14,9 +14,6 @@ Mental Minds is my first assessed portfolio project developed as part of the Cod
 The live project can found here: <a target="_blank" href="https://meganotton.github.io/Mental_Health_Website/">Link Here</a>
 </p>
 
-<h2 align="center"> Table of Contents:</h2>
-
-
 ## Project Outline
 
 Mental Minds is a fictional organisation dedicated to bringing awareness to mental health, with a primary focus of spotting the signs and symptoms of mental health struggles and what can be done to improve mental health.
