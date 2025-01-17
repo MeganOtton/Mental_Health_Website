@@ -119,6 +119,10 @@ Below is an image of my website from different devices.
 
 ![image](https://github.com/user-attachments/assets/3e578e95-5dab-4296-a27b-4802e8af0577)
 
+Improvements:
+
+I would like to have a smoother website between the different media Queries as some of the more unique resolutions can be mismatched to other resolutions.
+
 
 ## AI Implementation
 
@@ -150,7 +154,20 @@ Below is an image of my website from different devices.
 | Thank You / Button      | Return to Home Button     | Allows User to go back to home page   | Pass      |
 
 
-- Conducted multiple tests on Emulated Mobile, Ipad and Laptop and Desktop. Along with a Manual Test On  Mobile, Ipad and Laptop and Desktop, testing all webpages and links are working correctly. 
+- Conducted multiple tests on Emulated Mobile, Ipad and Laptop and Desktop. Along with a Manual Test On  Mobile, Ipad and Desktop, testing all webpages and links are working correctly.
+  
+     - Mobile Iphone 16 +
+     - Mobile Iphone 13 Mini
+     - IPad Pro 2024
+     - 1080P (Desktop Most Common Displays)
+     - 1440P (Desktop Most Common Displays)
+     - 4K (Desktop Most Common Displays)
+ 
+     - Google Chrome
+     - Safari
+     - Opera GX
+     - Microsoft Edge
+
 - All information can be read clearly and the page is responsive.
 
 ### Bugs
