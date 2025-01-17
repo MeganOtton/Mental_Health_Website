@@ -158,6 +158,21 @@ Below is an image of my website from different devices.
 
 ### Validation
 
+Index Page:
+
+![image](https://github.com/user-attachments/assets/a196762a-9760-4cad-a7a6-fa425096a7fe)
+
+Resource Page:
+
+![image](https://github.com/user-attachments/assets/a196762a-9760-4cad-a7a6-fa425096a7fe)
+
+Contact Page:
+
+![image](https://github.com/user-attachments/assets/a196762a-9760-4cad-a7a6-fa425096a7fe)
+
+Thank you Page:
+
+![image](https://github.com/user-attachments/assets/a196762a-9760-4cad-a7a6-fa425096a7fe)
 
 
 
