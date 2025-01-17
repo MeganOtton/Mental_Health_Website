@@ -147,7 +147,7 @@ Below is an image of my website from different devices.
 | Index / Carousel Messages       | Auto Scroll     | Automatically Scrolls after 6 Seconds to the next Card Carousel | Pass      |
 | Contact-Us / Form      | Form Inputs     | Allows User to input data into the form                         | Pass      |
 | Contact-Us / Form      | Send Message Button     | Allows User to send the data inputted to the website    | Pass      |
-| Thank You / Button      | Return to Home Button Button     | Allows User to go back to home page   | Pass      |
+| Thank You / Button      | Return to Home Button     | Allows User to go back to home page   | Pass      |
 
 
 - Conducted multiple tests on Emulated Mobile, Ipad and Laptop and Desktop. Along with a Manual Test On  Mobile, Ipad and Laptop and Desktop, testing all webpages and links are working correctly. 
@@ -179,6 +179,15 @@ Thank you Page:
 
 ![image](https://github.com/user-attachments/assets/770ff5af-1410-4e8d-a026-3728ffe9bb5b)
 
+
+CSS:
+
+![image](https://github.com/user-attachments/assets/9b582c1d-087a-41d8-aa17-cdab48a7e910)
+
+
+JS:
+
+![image](https://github.com/user-attachments/assets/7b682c5b-d469-4bf2-9eae-04b10d592538)
 
 
 
