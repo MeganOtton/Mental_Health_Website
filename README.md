@@ -11,7 +11,7 @@
 <p>
 Mental Minds is my first assessed portfolio project developed as part of the Code Institute Full Stack Software Developer Bootcamp, consisting of learning outcomes to utilise HTML5, CSS3 & Bootstrap in order to fulfil the necessary requirements for the brief provided about Mental Health.
 
-The live project can found here: ADD LINK HERE
+The live project can found here: <a target="_blank" href="https://meganotton.github.io/Mental_Health_Website/">Link Here</a>
 </p>
 
 <h2 align="center"> Table of Contents:</h2>
